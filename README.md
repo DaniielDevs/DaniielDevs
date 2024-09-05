@@ -15,5 +15,4 @@ Sempre motivado em aprender novas tecnologias
 
 ## Ultimos projetos:
 - [Criando jogo de xadrez - Java]()
-- [Em andamento - Java]()
-- [Em andamento - Java]()
+
